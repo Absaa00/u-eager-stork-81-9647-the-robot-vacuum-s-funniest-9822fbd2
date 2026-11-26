@@ -1,0 +1,9 @@
+# robot-vacuum build ignores — round vacuum-9822fbd2, fresh for this entry only
+kit.tar.gz
+kit-headers.txt
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+output/
+.bundle/
